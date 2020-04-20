@@ -1,7 +1,43 @@
 fileFormatVersion: 2
 guid: fc05740ae7ea19f42a09a479c41b802f
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -3396805613322776408
+    second: girlfriend_0
+  - first:
+      213: 5716631344073056794
+    second: girlfriend_1
+  - first:
+      213: -1372749558426114721
+    second: girlfriend_2
+  - first:
+      213: 1988901714738812167
+    second: girlfriend_3
+  - first:
+      213: -4294134067491465432
+    second: girlfriend_4
+  - first:
+      213: 5688727126003110012
+    second: girlfriend_5
+  - first:
+      213: 3050953992444836567
+    second: girlfriend_6
+  - first:
+      213: 5062896322895519173
+    second: girlfriend_7
+  - first:
+      213: -5140543768711218526
+    second: girlfriend_8
+  - first:
+      213: -3699567299414767608
+    second: girlfriend_9
+  - first:
+      213: -267495891601385652
+    second: girlfriend_0
+  - first:
+      213: 5055909840552843060
+    second: girlfriend_1
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -84,7 +120,49 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: girlfriend_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 667
+        width: 1181
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47193267e9a94cf0800000000000000
+      internalID: -267495891601385652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girlfriend_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1181
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437dd8e66333a2640800000000000000
+      internalID: 5055909840552843060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
