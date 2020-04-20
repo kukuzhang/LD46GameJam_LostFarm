@@ -1453,11 +1453,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 512.2446, y: 140.34076}
+  scrollPos: {x: 743.13367, y: 213.55505}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 365
-  zoom: 0.49000046
+  zoom: 0.5500004
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -1536,8 +1536,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -78.373886
-    y: 140.83456
+    x: -102.01027
+    y: 100.83458
     width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -2211,7 +2211,7 @@ MonoBehaviour:
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 30
-  blockName: dead1
+  blockName: sub1
   description: 
   eventHandler: {fileID: 0}
   commandList:
@@ -2341,7 +2341,7 @@ MonoBehaviour:
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 38
-  blockName: dead2
+  blockName: sub2
   description: 
   eventHandler: {fileID: 0}
   commandList:
