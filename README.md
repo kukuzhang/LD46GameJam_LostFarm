@@ -1,7 +1,7 @@
 # LD46GameJam_LostFarm
 LD46GameJam_LostFarm
 
-
+LudumDare46参赛作品
 一个简单的小故事，本来想做得恐怖氛围，但也有到达预期效果。希望大家能喜欢！
 试玩下载地址：https://joechuang.itch.io/lost-farm
 源码：https://github.com/kukuzhang/LD46GameJam_LostFarm
